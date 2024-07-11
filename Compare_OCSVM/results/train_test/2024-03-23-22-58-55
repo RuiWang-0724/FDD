@@ -1,0 +1,23 @@
+Fault 1 accuracy: 1020/1020=1.0
+Fault 2 accuracy: 1020/1020=1.0
+Fault 3 accuracy: 1020/1020=1.0
+Fault 4 accuracy: 1020/1020=1.0
+Fault 5 accuracy: 1020/1020=1.0
+Fault 6 accuracy: 1020/1020=1.0
+Fault 7 accuracy: 1020/1020=1.0
+Fault 8 accuracy: 1020/1020=1.0
+Fault 9 accuracy: 1020/1020=1.0
+Fault 10 accuracy: 1020/1020=1.0
+Fault 11 accuracy: 1020/1020=1.0
+Fault 12 accuracy: 1020/1020=1.0
+Fault 13 accuracy: 1020/1020=1.0
+Fault 14 accuracy: 1020/1020=1.0
+Fault 15 accuracy: 1003/1003=1.0
+Fault 16 accuracy: 1020/1020=1.0
+Fault 17 accuracy: 1020/1020=1.0
+Fault 18 accuracy: 986/986=1.0
+Fault 19 accuracy: 1020/1020=1.0
+Fault 20 accuracy: 1020/1020=1.0
+Fault 21 accuracy: 1020/1020=1.0
+Test Time: 2175.871, Accuracy: 0.70833333 , Fault Accuracy:1.00000000, Normal Accuracy:0.00000000, FAR:1.00000000
+save trained OCSVM model, path:FaultDetection/TE/Compare_OCSVM/results/model/2024-03-23-22-58-55
